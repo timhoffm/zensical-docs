@@ -70,7 +70,7 @@ is another great resource.
 
 ## Linking between pages
 
-When adding links to other pages always use related links to the corresponding
+When adding links to other pages always use relative links to the corresponding
 Markdown files instead of linking to the HTML that will be produced. Zensical
 will translate them to the correct links to the target. Crucially, it will
 produce the correct link to an HTML file or a link ending with a directory if
